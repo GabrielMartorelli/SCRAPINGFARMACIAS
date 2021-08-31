@@ -1,0 +1,18 @@
+{
+  "name": "farmacia",
+  "version": "1.0.0",
+  "description": "Web-scraping em e-comerces/sites de venda de medicamentos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Martorelli",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "mongoose": "^6.0.3",
+    "user-agents": "^1.0.760"
+  }
+}
